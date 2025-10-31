@@ -1,0 +1,9 @@
+# YouTube Channel IDs for Cat Channels
+# Format: One channel ID per line (can use channel ID or @username)
+# 
+# Maru - Famous cat from Japan (box lover)
+@mugumogu
+# Crunchy Cat Luna
+@CrunchycatLuna
+# ChaCha
+@chacha-rme
