@@ -1,12 +1,8 @@
 # YouTube Channel IDs for Cat Channels
 # Format: One channel ID per line (can use channel ID or @username)
 # 
-# Maru - Famous cat from Japan (box lover)
-@mugumogu
 # Crunchy Cat Luna
 @CrunchycatLuna
-# ChaCha
-@chacha-rme
 # funnycattshorts (compolation)
 @funnycattshorts
 # PrincessNikacat 
@@ -45,8 +41,22 @@
 @RenusDelph
 # FunnyandcuteCatLife
 @FunnyandcuteCatLife
-
-
+# Maine_Coon_Kittens
+@Maine_Coon_Kittens
+# walterthecatt
+@walterthecatt
+# CatManChrisPoole
+@CatManChrisPoole
+# TakeYourDoseOfCats
+@TakeYourDoseOfCats
+# funcatflicks-l
+@funcatflicks-l
+# funnyPaws_show
+@funnyPaws_show
+# Meowphorius
+@Meowphorius
+# elcatogato
+@elcatogato
 
 
 
